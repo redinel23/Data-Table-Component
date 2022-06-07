@@ -1,0 +1,32 @@
+.d-flex {
+    display: flex;
+}
+
+.d-grid {
+    display: grid;
+}
+
+.gap10 {
+    gap: 10px;
+}
+
+.border {
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.alignCenter {
+    text-align: center;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.m-left-auto {
+    margin-left: auto;
+}
+
+.icon {
+    width: 15px;
+}
